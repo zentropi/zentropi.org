@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>zentropi.org</title><link href="https://zentropi.org/" rel="alternate"></link><link href="https://zentropi.org/feeds/all.atom.xml" rel="self"></link><id>https://zentropi.org/</id><updated>2020-03-06T00:00:00+05:30</updated><subtitle>Script Your World</subtitle><entry><title>Hello</title><link href="https://zentropi.org/hello.html" rel="alternate"></link><published>2020-03-06T00:00:00+05:30</published><updated>2020-03-06T00:00:00+05:30</updated><author><name>Harshad Sharma</name></author><id>tag:zentropi.org,2020-03-06:/hello.html</id><summary type="html">&lt;p class="first last"&gt;It lives!&lt;/p&gt;
+</summary><content type="html">&lt;div class="section" id="it-lives"&gt;
+&lt;h2&gt;It Lives!&lt;/h2&gt;
+&lt;p&gt;I have been working on Zentropi since 2016,
+and even though there have been no updates so far,
+the project is being worked upon on-and-off.&lt;/p&gt;
+&lt;p&gt;This post marks another step towards
+making the project real.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="updates"></category></entry></feed>
