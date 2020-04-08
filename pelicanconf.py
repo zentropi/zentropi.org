@@ -40,7 +40,8 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = 'Flex'
+THEME = 'themes/Flex'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+USE_GOOGLE_FONTS = False
